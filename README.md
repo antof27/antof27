@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonio Finocchiaro</h1>
 <h3 align="center">A Data Science student at the University of Catania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antof27&label=Profile%20views&color=0e75b6&style=flat" alt="antof27" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antof27" alt="antof27" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
