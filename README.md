@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Finocchiaro</h1>
-<h3 align="center">A Data Science student at the University of Catania</h3>
+<h3 align="center">a Computer Science master's student at the University of Catania</h3>
 
 
 <h3 align="left">Connect with me:</h3>
