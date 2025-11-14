@@ -13,7 +13,7 @@ My main areas of academic and research interest include:
 
 ### 📫 How to reach me
 
-* **Email:** (antonio.finocchiaro@phd.unict.it)
+* **Email:** antonio.finocchiaro@phd.unict.it
 * **LinkedIn:** [linkedin.com/in/antonio-finocchiaro-834522288](https://linkedin.com/in/antonio-finocchiaro-834522288)
 * **Instagram:** [@anto__sw](https://instagram.com/anto__sw)
 
