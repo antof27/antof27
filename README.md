@@ -17,7 +17,7 @@
 My main areas of academic and research interest include:
 
 * Computer Vision
-
+* Object Detection
 * Video Understanding
 
 
