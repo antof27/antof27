@@ -28,6 +28,6 @@ My main areas of academic and research interest include:
 
 
 
-* **Email:** antonio.finocchiaro@phd.unict.it
+* **Email:** antoniofinocchiaro2000@gmail.com
 
 * **LinkedIn:** [linkedin.com/in/antonio-finocchiaro-834522288](https://linkedin.com/in/antonio-finocchiaro-834522288)
