@@ -2,9 +2,6 @@
 
 
 
-### MSCS @ University of Catania
-
-
 
 ---
 
